@@ -1,0 +1,6 @@
+- Windows is not design for developer but also for computer smallwhite(*Chinglish*), don't want put too much words on
+- Don't like Visual Studio, it actually always for charge
+- Bigger and bigger installation packages, WOW, heartburn my disks
+- Centralized configuration center
+- Have to say `Azure` is a very good cloud option, especially `Azure DevOps` will do many helpful to developer team compare with Jenkins which is huge powerful
+- .net desktop applications I'd like to put into my programming toolkit
