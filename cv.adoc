@@ -1,0 +1,87 @@
+:doctype: book
+:imagesdir: ./images
+:iconsdir: ./icons
+:nofooter:
+
+Daemons:: Xxx District,
+Shanghai City, China +
++86 xxxxxxxxxxx +
+\daemonswang@gmail.com +
+image:gh.png[20,20] | https://github.com/daemonswang
+
+
+[#work-experience]
+=== Work Experience
+'''
+[horizontal]
+Xxx. Yyyy to Now:: **Software Leader** _engaged on **Embedded Device SW.** dev._ +
+
+- Participate in software developement activities (incl. Qt GUI and networking parts) across whole lifecycle, figure out
+the requirement, work out acceptance criterias, design the architect (incl. define interfaces in between) impl., unit testing, static code analysis, monitoring, supporting, etc.
+- Establish the dev. env. (incl. docker, VSCode, remote container)
+- Be part of Agile team (scrum, KANBAN, SAFe), be self-motivated, transparency, good communication, openess, self-learning, etc.
+- Co-ordinate the tasks execution (incl. task breakdown, assignment, following up, blocker support etc.) for externel colleagues
+- Be responsible for software configuration management work (incl. Git workflow, code changing management, documents, Azure DevOps CI/CD pipeline, tools enablement, Versioning & Release management & CHANGLOG, etc.)
+- Facilitate cooperation between dev. and testing team
+- Support the processes related work (incl. tools, SOUPs validation)
+
+Xxx. Yyyy to Xxx. Yyyy:: **Software Engineer** _engaged on **Embedded Device SW.** dev._
+
+- Implement the assigned requirement, module design, impl. testing etc.
+- Be familiar with medical standards (incl. IEC 62304, ISO 13485, IEC 14971, etc.)
+- Good understanding on how the tracebility map between, requirements->design->impl.->testing, very critical concept
+- Establish good time management and tasks breakdown
+- Have a good vision, alignment, commitment, delivery, refineemnt cycle
+- Abstract the bussiness model then instruct the tune on the architect
+
+
+Xxx. Yyyy to Xxx. Yyyy:: **Software Engineer** _engaged on **Embedded Device SW.** dev._
+
+- Vehicle system SW. dev.(incl. MCU task base, GUI, networking, multithreading etc.)
+- IPC (incl. socket, DBus, sharing memory)
+
+[#academic-record]
+=== Academic Record
+'''
+[horizontal]
+2007–2011:: **__University of Xxx, Major in Software Engineering__** +
+
+
+[#it-skills]
+=== IT Skills
+'''
+[horizontal]
+Core Skills: :: 
+Software Development:::
+Programming languages: **C++11/14/17, Networking, Threading, CMake, Bash, Python** +
+Methodologies: **Agile, Lean, System thinking, internet thinking (i.e.: digitalization)** +
+Tools: **docker, Azure & Azure DevOps, CI/CD, conan, JFrog Artifactory, static/dynamic code analysis tools, UT & GCov, Toolchains(compiler, debugger, profiling, sanitizer), valgrind etc...**
+
+Product Management:::
+requirements: **focus on customer**
+
+Soft skills:::
+Efficient communication +
+Cooperation +
+Openess +
+Transparency
+
+Operating Systems: :: 
+Linux:::
+Ubuntu 14, Debian 10 +
+Others:::
+Microsoft Windows 10 +
+
+<<<
+
+[#language-skills]
+=== Language Skills
+'''
+[horizontal]
+Mother Tongue: :: Chinese
+Fluent: :: English
+
+[#personal-interests]
+=== Personal Interests
+'''
+Books, games, films, sports.
