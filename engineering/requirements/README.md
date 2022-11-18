@@ -39,3 +39,11 @@ Requirement could from any identity, even developers could contribute on
 - unambiguity: check with at least two person make sure they have the same understading
 - testable: reserve the test point for the verification, clear acceptance criteria expressed
 - be correctness: this is most hard one, in principle can't always be assured :pray: :pray:!!
+
+# How the requirement should be like?
+
+There are so many different kinds of approaches for requirement format, my personal strongly suggest to follow Agile user story like:
+`As a student, I want to check the teaching video when met some problems which not sure`.
+`As a parent, I want to monitor my kid's status when he/she is not besides me`.
+
+Very specific, when we build a new product, we could collect lots of the ideas like that, then we could catogory on them, define the priority...
