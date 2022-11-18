@@ -43,6 +43,7 @@ Requirement could from any identity, even developers could contribute on
 # How the requirement should be like?
 
 There are so many different kinds of approaches for requirement format, my personal strongly suggest to follow Agile user story like:
+
 `As a student, I want to check the teaching video when met some problems which not sure`.
 `As a parent, I want to monitor my kid's status when he/she is not besides me`.
 
