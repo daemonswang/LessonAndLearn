@@ -3,8 +3,7 @@
 to stop then look back, some of are the in person experience and some of are the thoughts, hopefully it will do some benifits for the reader.
 
 # Education
-I majored in `software engineering`, for now still miss the university days (incl. wonderful food, beautiful age, passion, etc.), something want 
-to highlight in order have a more bright future:
+I majored in `software engineering`, more than 10 year passed since graduate, for now still miss the university days (incl. wonderful food, beautiful age, passion, etc.), something want to highlight in order have a more bright future:
 
 ## Theory and practice are all important!!! Not one more over then another!!!
 Computer science is a very practical related major, there would be different approaches for the specific problem, which depends on the person, 
